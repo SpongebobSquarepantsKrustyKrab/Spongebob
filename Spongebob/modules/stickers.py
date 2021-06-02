@@ -15,7 +15,7 @@ from Spongebob import dispatcher
 from Spongebob.modules.disable import DisableAbleCommandHandler
 
 combot_stickers_url = "https://combot.org/telegram/stickers?q="
-
+Rusak
 
 @run_async
 def stickerid(update: Update, context: CallbackContext):
